@@ -15,3 +15,11 @@ console.log(temp);
 // it will not show any error because it will allow for modification
 temp=30.5;
 console.log(temp);
+
+// String userName="thanush"; // used in java
+// its java syntax
+
+const userName="thanush"; // used in javascript
+// typr of : it is an operator which is going to tell what type of data or value a variable is holding
+console.log(typeof userName); // string
+
